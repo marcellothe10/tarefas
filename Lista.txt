@@ -1,0 +1,2 @@
+Estudar git
+Estudar C#
